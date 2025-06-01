@@ -57,6 +57,27 @@ The plan of tasks for each group member for the remainder of the project is:
     - recommend the most suitable cloud service for the travel agency.
     - Justify your recommendations based on factors like cost, performance, scalability, and security.
 
-- Week 10:
+- Week 10: Risk Assessment and Security Controls  
+  Todo:
+  - Task 10.1: Identify Assets and Threats
+    - List out at least 12 key assets (data, hardware, software, network, people, process)
+    - Refer to InfoSecThreats table to match with common threats
+  - Task 10.2: Complete Risk Assessment Excel File
+    - Fill in the “Assets” and “Vulnerabilities” sheets in the template
+    - Use TVA naming convention and complete TVAMatrix
+  - Task 10.3: Begin Drafting `security.md`
+    - Capture screenshot of TVAMatrix
+    - Start writing about high-risk assets and recommending three security controls
 
-- Week 11:
+- Week 11: Ethics, Reflection, Finalisation  
+  Todo:
+  - Task 11.1: Complete `ethics.md`
+    - Identify and discuss ethical/social issues: privacy, consent, surveillance
+    - Reference relevant laws and principles (Privacy Act, GDPR)
+  - Task 11.2: Complete `reflection.md`
+    - Summarise team collaboration, contribution, lessons learned
+    - Insert screenshot of GitHub commit history
+  - Task 11.3: Final Review and Polish
+    - Proofread all `.md` files and diagrams
+    - Ensure all links work and images display correctly
+    - Commit final files to GitHub before submission deadline
