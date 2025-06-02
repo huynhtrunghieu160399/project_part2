@@ -35,7 +35,7 @@ Such data is highly sensitive and must be handled with strict security and ethic
 
 ### Ethical and Social Issues
 
-### 1. **Customer Privacy and Consent**
+#### 1. **Customer Privacy and Consent**
 
 **Issue**: Customers may not fully understand how their data is collected, used, or shared.  
 **Ethical concern**: Lack of informed consent violates the ethical principle of autonomy.
